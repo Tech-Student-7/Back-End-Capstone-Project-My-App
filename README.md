@@ -3,7 +3,6 @@
 
 Final Project Submission for the META Professional Back-End Development Course.
 
-Looking forward!
 ---------------------------------------------------------------------------------
 Keys for testing:
 
@@ -13,3 +12,5 @@ Path 2: restaurant/booking/
 Superuser login data:
 username: admin
 password: admin
+
+#Looking forward!
