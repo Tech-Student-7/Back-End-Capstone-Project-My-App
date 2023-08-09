@@ -1,18 +1,15 @@
 # Back-End-Capstone-Project-My-App
+# The Little Lemon
 
 Final Project Submission for the META Professional Back-End Development Course.
 
 Looking forward!
 ---------------------------------------------------------------------------------
-Instructions for Testing:
+Keys for testing:
 
-# LittleLemon
-final project of the coursera course meta back-end developer capstone
+Path 1: restaurant/menu-items/
+Path 2: restaurant/booking/
 
-Paths that can be tested:
-restaurant/menu-items/
-restaurant/booking/
-
-you can use the superuser account to login:
+Superuser login data:
 username: admin
 password: admin
