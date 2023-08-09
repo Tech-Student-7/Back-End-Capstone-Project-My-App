@@ -13,4 +13,4 @@ Superuser login data:
 username: admin
 password: admin
 
-#Looking forward!
+Looking forward!
