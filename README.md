@@ -2,6 +2,7 @@
 # The Little Lemon
 
 Final Project Submission for the META Professional Back-End Development Course.
+Looking forward!
 
 ---------------------------------------------------------------------------------
 Keys for testing:
@@ -13,4 +14,3 @@ Superuser login data:
 username: admin
 password: admin
 
-Looking forward!
